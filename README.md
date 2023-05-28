@@ -1,5 +1,5 @@
 ## Olá, meu nome é Diego Araújo! 👋 
-🙋🏽‍♂️ Eu sou deficiência auditiva um jovem de 28 anos que apaixonado por tecnologia e gosto de programar e meu objetivo é criar sites e aplicativos.<br>
+🙋🏽‍♂️ Eu sou deficiência auditiva de 28 anos que apaixonado por tecnologia e gosto de programar e meu objetivo é criar sites e aplicativos.<br>
 📚 Estudando Desenvolvimento Front-End com HTML e CSS e atualmente estou aprofundando meus estudos em Javascript e buscando aprender mais de Java e mais ferramentas.
 
 ## Competências e estatísticas:
