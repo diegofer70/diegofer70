@@ -1,5 +1,5 @@
 ## Olá, meu nome é Diego Araújo! 👋 
-🙋🏽‍♂️ Eu sou deficiência auditiva de 28 anos que apaixonado por tecnologia e gosto de programar e meu objetivo é criar sites e aplicativos.<br>
+🙋🏽‍♂️ Eu sou surdo de 29 anos que apaixonado por tecnologia e gosto de programar e meu objetivo é criar sites e aplicativos.<br>
 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza - Unifor e meu objetivo no momento é continuar crescendo nesse mercado gigantesco. Estou aberto a novos desafios.
 
 ## Competências e estatísticas:
