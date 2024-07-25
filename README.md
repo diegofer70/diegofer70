@@ -1,7 +1,8 @@
-# Olá, me chamo Diego Araújo! 👋 
-* Estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza - Unifor.
-* Apaixonado por programação, ciência de dados e UX/UI Design.
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Diego%20Araújo&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 
+# Hello! I'm Diego Araújo 🖐️
+* Systems Analysis and Development student at the University of Fortaleza - Unifor.
+* Full Stack Developer
 ## Competências e estatísticas:
 <div>
     <a href="https://github.com/diegofer70">
