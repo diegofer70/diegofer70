@@ -1,8 +1,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Diego%20Araújo&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 
 # Hello! I'm Diego Araújo 🖐️
-* Systems Analysis and Development student at the University of Fortaleza - Unifor.
-* Full Stack Developer
+I am hearing impaired and communicate in Libras (Brazilian Sign Language). a Full Stack developer, passionate about innovation and with experience in creating intuitive interfaces using React and NodeJS.
+
+Graduated in Systems Analysis and Development from Universidade Fortaleza (Unifor). Currently, I have dedicated myself to studying technology through courses and projects.
+
+Specialized in Python, JavaScript, HTML/CSS, React, Typescript, Node.js, Express.js, related databases such as PostgreSQL, MySQL, consumption of REST APIs, automated tests (Cypress), version control with Git, UX/UI and methodologies such as Scrum/Kanban.
 ## Competências e estatísticas:
 <div>
     <a href="https://github.com/diegofer70">
