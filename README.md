@@ -5,14 +5,13 @@ I am hearing impaired and communicate in Libras (Brazilian Sign Language). a Ful
 
 Graduated in Systems Analysis and Development from Universidade Fortaleza (Unifor). Currently, I have dedicated myself to studying technology through courses and projects.
 
-Main Competencies:
-- Back-end experiences: Python, TypeScript, Node.js, Express.js
-- Front-end experiences: React.js to develop user interfaces
-- Cloud Experience: AWS
-- Knowledge of concepts and tools: consumption of REST APIs, unit tests, automated tests (Cypress)
-- Database: PostgreSQL and MySQL
-- Agile methodologies such as Scrum/Kanban.
-- Version control with Git
+Skills:
+- Basic knowledge of HTML/CSS, JavaScript;
+- Basic knowledge of frameworks and libraries such as React, Node (express);
+- Knowledge of versioning with GIT;
+- Knowledge of PostgreSQL/MySQL database;
+- Knowledge in consuming REST APIs;
+
 ## Competências e estatísticas:
 <div>
     <a href="https://github.com/diegofer70">
