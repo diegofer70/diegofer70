@@ -5,12 +5,13 @@ I am hearing impaired and communicate in Libras (Brazilian Sign Language). a Ful
 
 Graduated in Systems Analysis and Development from Universidade Fortaleza (Unifor). Currently, I have dedicated myself to studying technology through courses and projects.
 
-Skills:
-- Basic knowledge of HTML/CSS, JavaScript;
-- Basic knowledge of frameworks and libraries such as React, Node (express);
-- Knowledge of versioning with GIT;
-- Knowledge of PostgreSQL/MySQL database;
-- Knowledge in consuming REST APIs;
+Hard Skills:
+- HTML5, CSS, JavaScript, React, Java, Node.js (Express.js), SQL, Git/GitHub, APi;
+- Agile methodologies kanban, Scrum;
+- Automated tests (Cypress);
+
+Soft skills:
+Work as a team, Communication, Willingness to learn, dynamic and proactive;
 
 ## Competências e estatísticas:
 <div>
