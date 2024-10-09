@@ -11,7 +11,7 @@ Hard Skills:
 - Automated tests (Cypress);
 
 Soft skills:
-Work as a team, Communication, Willingness to learn, dynamic and proactive;
+- Work as a team, Communication, Willingness to learn, dynamic and proactive;
 
 ## Competências e estatísticas:
 <div>
