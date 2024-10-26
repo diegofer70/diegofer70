@@ -13,7 +13,7 @@ Hard Skills:
 - Ferramentas e Práticas: Insomnia, Docker, CI/CD, Testes unitários, APIs REST;
 
 Soft Skills:
-Trabalho em equipe, Comunicação, Proatividade, Vontade de aprender, dinâmico;
+- Trabalho em equipe, Comunicação, Proatividade, Vontade de aprender, dinâmico;
 
 ## Competências e estatísticas:
 <div>
@@ -30,6 +30,8 @@ Trabalho em equipe, Comunicação, Proatividade, Vontade de aprender, dinâmico;
   <img align="center" alt="Diego-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Diego-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Diego-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Diego-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Diego-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Diego-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Diego-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Diego-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
