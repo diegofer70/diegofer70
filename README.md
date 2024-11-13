@@ -1,19 +1,23 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Diego%20Araújo&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 
 # Hello! I'm Diego Araújo 🖐️
-Sou deficiente auditivo e me comunico em Libras (Língua Brasileira de Sinais). Desenvolvedor Full Stack, apaixonado por inovação e meu objetivo é continuar crescendo e aprendendo na área da tecnologia, sempre busca de aprender novas ferramentas e metodologias que possam me ajudar a entregar resultados ainda melhores para me desenvolver profissionalmente e contribuir para projetos inovadores.
 
-Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Fortaleza (Unifor). Atualmente, tenho me dedicado aos estudos na área de tecnologia por meio de cursos e de projetos.
+💻 I am a Full Stack Developer.
 
 Hard Skills:
-- Linguagens de programação: HTML, CSS, JavaScript, Java, Node.js;
-- Frameworks: Spring Boot, React, Express.js;
-- Bancos de dados: MySQL, PostgreSQL;
-- Controle de Versão: Git, GitHub, GitLab;
-- Ferramentas e Práticas: Insomnia, Docker, CI/CD, Testes unitários, APIs REST;
+- React, HTML, CSS, JavaScript;
+- Python, Java, Spring Boot, NodeJS, ExpressJS;
+- MySQL, PostgreSQL, MongoDB;
+- Versionamento com Git, GitHub, GitLab;
+- Supabase, Insomnia, Docker, Figma;
+- CI/CD, Testes unitários, APIs REST;
 
 Soft Skills:
-- Trabalho em equipe, Comunicação, Proatividade, Vontade de aprender, dinâmico;
+- Comunicação
+- Trabalho em equipe
+- Liderança
+- Vontade de Aprendizado
+- Resolução de Problemas
 
 ## Competências e estatísticas:
 <div>
