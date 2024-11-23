@@ -2,22 +2,9 @@
 
 # Hello! I'm Diego Araújo 🖐️
 
-💻 I am a Full Stack Developer.
+Sou deficiente auditivo e me comunico em Libras (Língua Brasileira de Sinais). Desenvolvedor Full Stack, apaixonado por inovação e meu objetivo é continuar crescendo e aprendendo na área da tecnologia, sempre busca de aprender novas ferramentas e metodologias que possam me ajudar a entregar resultados ainda melhores para me desenvolver profissionalmente e contribuir para projetos inovadores.
 
-Hard Skills:
-- React, HTML, CSS, JavaScript;
-- Python, Java, Spring Boot, NodeJS, ExpressJS;
-- MySQL, PostgreSQL, MongoDB;
-- Versionamento com Git, GitHub, GitLab;
-- Supabase, Insomnia, Docker, Figma;
-- CI/CD, Testes unitários, APIs REST;
-
-Soft Skills:
-- Comunicação
-- Trabalho em equipe
-- Liderança
-- Vontade de Aprendizado
-- Resolução de Problemas
+Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Fortaleza (Unifor). Atualmente, tenho me dedicado aos estudos na área de tecnologia por meio de cursos e de projetos.
 
 ## Competências e estatísticas:
 <div>
